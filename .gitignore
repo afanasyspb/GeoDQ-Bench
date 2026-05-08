@@ -9,3 +9,6 @@ __pycache__
 # Системные файлы (если вы на Mac/Windows)
 .DS_Store
 Thumbs.db.ipynb_checkpoints/
+results_Benchmark_GeoDQ/
+results_Video_Demo/
+*.csv
